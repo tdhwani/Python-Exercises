@@ -1,5 +1,4 @@
-# Databased
-Databased take home problems
+
 
 Problem 1 - Least Factorial:   
 You can run this program with using the following command-  
